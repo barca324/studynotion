@@ -1,0 +1,32 @@
+{
+   "firstname":"Madhusudan",
+    "lastname":"kumar",
+     "email":"madhusudan329832@gmail.com",
+     "otp":"331027",
+     "password":"madhu@studynotion",
+     "confirmpassword":"madhu@studynotion",
+     "accountType":"Student"
+}
+
+{
+     "firstname":"Madhusudan",
+    "lastname":"kumar",
+     "email":"madhusudan3232@gmail.com",
+     "password":"madhu@studynotion",
+     "confirmpassword":"madhu@studynotion",
+     "accountType":"Student",
+       "otp":"762921"
+   
+}
+{
+        "firstname":"Mukund",
+    "lastname":"kumar",
+     "email":"mukund32@gmail.com",
+     "password":"madhu@studynotion",
+     "confirmpassword":"madhu@studynotion",
+     "accountType":"Student",
+       "otp":"294046
+}
+ "newpassword":"madhunew@studynotion",
+    "confirmnewpassword":"madhunew@studynotion",
+    "token":"d3651e92-5eb2-4614-a47a-bb225646f698"
